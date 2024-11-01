@@ -7,10 +7,9 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at omsanan@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.github.io/anti-intrgral) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at om.sanan007@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]([https://www.github.io/anti-intrgral](https://drive.google.com/file/d/1ogb8f0ys4z4DU6Qizs5DWmWYomtsZ7R-/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -20,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -33,8 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -50,6 +48,6 @@
 <p align="center">
 <a href="https://www.researchgate.net/profile/Om-Sanan"><img src="https://img.shields.io/badge/-researchgate.net-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/om-sanan"><img src="https://img.shields.io/badge/-Om%20Sanan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:om-sanan@umass.edu"><img src="https://img.shields.io/badge/om-sanan@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:om.sanan007@gmail.com"><img src="https://img.shields.io/badge/om.sanan007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
