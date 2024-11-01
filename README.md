@@ -48,7 +48,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/anti-integral"><img src="https://img.shields.io/badge/-Om%20Sanam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:om-sanan@umass.edu"><img src="https://img.shields.io/badge/om-sanam@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Om-Sanan"><img src="https://img.shields.io/badge/-researchgate.net-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/om-sanan"><img src="https://img.shields.io/badge/-Om%20Sanan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:om-sanan@umass.edu"><img src="https://img.shields.io/badge/om-sanan@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
